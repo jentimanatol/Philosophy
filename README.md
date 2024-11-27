@@ -30,3 +30,4 @@ A grade of C or higher in Academic Reading III (ESL-098) or Integrated ELL Level
 - [The Allegory of the Cave ](.pdf/The_Allegory_of_the_Cave_by_Anatolie_Jentimir.pdf)
 - [The idea of stopping time ](.pdf/The_idea_of_stopping_time_by_Anatolie_Jentimir.pdf)
 - [Hedonism vs stoicism a comparative analysis](.pdf/Hedonism_vs_stoicism_a_comparative_analysis_by_Anatolie_Jentimir.pdf)
+- [Morality Without Religion Instincts and Evolution]()
