@@ -19,7 +19,8 @@ This book taught me a valuable lesson. I learned to be thankful and I also learn
         
 The book “Refugee’” can be compared with the poem “Partition” by Fatima Asghar. The first part of the poem refers to the event which led to the division of India and the creation of two independent countries, India and Pakistan It is an influential poem about the bloody history of migration. The author talks about horrific history of migration and human suffering as they moved across the border.
    
-
+_Not protected by copyright, may be used for its intended purpose._  
+_Author: Anatolie Jentimir._
 
  
 
