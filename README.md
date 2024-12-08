@@ -30,5 +30,5 @@ A grade of C or higher in Academic Reading III (ESL-098) or Integrated ELL Level
 - [The Allegory of the Cave ](.pdf/The_Allegory_of_the_Cave_by_Anatolie_Jentimir.pdf)
 - [The idea of stopping time ](.pdf/The_idea_of_stopping_time_by_Anatolie_Jentimir.pdf)
 - [Hedonism vs stoicism a comparative analysis](.pdf/Hedonism_vs_stoicism_a_comparative_analysis_by_Anatolie_Jentimir.pdf)
-- [Morality Without Religion Instincts and Evolution](https://github.com/jentimanatol/Philosophy/blob/3fecd5016e8ee816ac68a6f53c47e9a6d3ba83ff/.pdf/Morality%20Without%20Religion%20Instincts%20and%20Evolution.pdf)
-- [Refugee -Book review ](Refugee -Book review .md)
+- [Morality Without Religion Instincts and Evolution](.pdf/Morality_Without_Religion_Instincts_and_Evolution.pdf)
+- [Refugee -Book review](.pdf/Refugee_Book_review.pdf)
