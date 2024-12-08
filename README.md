@@ -32,3 +32,4 @@ A grade of C or higher in Academic Reading III (ESL-098) or Integrated ELL Level
 - [Hedonism vs stoicism a comparative analysis](.pdf/Hedonism_vs_stoicism_a_comparative_analysis_by_Anatolie_Jentimir.pdf)
 - [Morality Without Religion Instincts and Evolution](.pdf/Morality_Without_Religion_Instincts_and_Evolution.pdf)
 - [Refugee -Book review](.pdf/Refugee_Book_review.pdf)
+- [Poem_Partition_by_Fatimah_Asghar](.pdf/Poem_Partition_by_Fatimah_Asghar.pdf)
