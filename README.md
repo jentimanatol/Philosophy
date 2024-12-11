@@ -33,3 +33,4 @@ A grade of C or higher in Academic Reading III (ESL-098) or Integrated ELL Level
 - [Morality Without Religion Instincts and Evolution](.pdf/Morality_Without_Religion_Instincts_and_Evolution.pdf)
 - [Refugee -Book review](.pdf/Refugee_Book_review.pdf)
 - [Poem_Partition_by_Fatimah_Asghar](.pdf/Poem_Partition_by_Fatimah_Asghar.pdf)
+- [Reflect_upon_the_quotes_from_the_TAO_TE_CHING ](.pdf/Reflect_upon_the_quotes_from_the_TAO_TE_CHING.pdf)
