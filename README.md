@@ -34,3 +34,10 @@ A grade of C or higher in Academic Reading III (ESL-098) or Integrated ELL Level
 - [Refugee -Book review](.pdf/Refugee_Book_review.pdf)
 - [Poem_Partition_by_Fatimah_Asghar](.pdf/Poem_Partition_by_Fatimah_Asghar.pdf)
 - [Reflect_upon_the_quotes_from_the_TAO_TE_CHING ](.pdf/Reflect_upon_the_quotes_from_the_TAO_TE_CHING.pdf)
+
+
+
+
+
+_Not protected by copyright, may be used for its intended purpose._  
+_Author: Anatolie Jentimir._
