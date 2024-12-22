@@ -1,37 +1,19 @@
-# Philosophy Course Feedback
+Dear Professor DeAnna
 
-## Dear Professor DeAnna,
+I hope this message finds you well. Please let me take a minute to provide some substantial feedback regarding the Philosophy course that I finally finished. Being a computer science student, selecting this course over other available options, such as Astronomy Lab—where I am sure I'd feel more comfortable—was not an easy choice. Nevertheless, I value the experience and the knowledge I have obtained.
 
-I hope this message finds you well. Please let me take a moment to provide some substantial feedback regarding the Philosophy course that I have recently completed. As a computer science student, selecting this course over other available options, such as Astronomy Lab—where I would likely feel more comfortable—was not an easy decision. However, I genuinely value the experience and knowledge I have gained.
+Transitioning from advanced calculus and physics classes to engaging in philosophical discussions was a very challenging yet rewarding experience. In science and engineering, we often focus on what can be measured and proved with complicated theories. Philosophy requires an entirely different approach—one that includes abstract thought and deep contemplation over subjects for which there may never be definite answers. This change in my thought process has been enriching.
 
-### Transition to Philosophy
+I think what I liked about this course most is that you exposed us to several kinds of books instead of one textbook. That fact brought many different ideas into our studies and gave our work much more depth than any other class could ever give. Most of our generation spends more time on social media rather than reading books during our leisure time, and your approach bridged this gap somehow, making the material seem so much more enjoyable.
 
-Transitioning from advanced calculus and physics classes to engaging in philosophical discussions proved to be both challenging and rewarding. In science and engineering, the focus often lies on measurable and provable phenomena backed by complex theories. Philosophy, on the other hand, necessitates an entirely different approach: abstract thinking and deep contemplation about questions that may never have definitive answers. Adapting to this shift in thought processes has been an enriching experience for me.
+I would like to suggest that in every assignment, there be at least one essay with a free theme and without strictly limiting length. Maybe in this way, we can reveal some hidden talents or some unusual philosophical ways of considering one thing or another among students. Who knows, maybe the new Socrates is among us with some innovative take on philosophy.
 
-### Highlights of the Course
+While I understand the importance of deadlines, I found it disheartening that my first assignment was rejected due to being late. It wasn't just about the grade, but more about feeling that my effort was not appreciated. Growing up in the Soviet Union under strict guardianship and experiencing a severe educational upbringing, I have come to value freedom in creativity, timing, and thematic exploration. I have many philosophical thoughts and ideas, but often lack the time to fully implement them.
 
-What I appreciated most about this course was your decision to expose us to a diverse selection of books rather than relying on a single textbook. This approach introduced us to a variety of perspectives, enriching our understanding and lending our work much more depth than any other class could. In a time when many of us spend more hours on social media than reading books during leisure time, your method helped bridge that gap, making the material engaging and enjoyable.
+In a world where conformity is the norm, it is essential for people to embrace their uniqueness and contribute to new movements and leadership. This course has taught me that everyone has a unique philosophical voice that deserves to be heard.
 
-### Suggestions for Improvement
+Thank you for your time, understanding, and dedication to teaching. You are a great professor, and throughout the course, I have learned a wealth of new material. The books you recommended have profoundly influenced me, allowing me to see the world from a different perspective. As an engineering major, spending significant time in physics labs often creates a certain lens through which I view things. Your course has helped lift that curtain, allowing me to see things in a broader, more nuanced way.
 
-I would like to suggest incorporating at least one open-themed essay assignment per term without strict limitations on length. This could encourage students to explore their unique philosophical perspectives and potentially reveal hidden talents or innovative ideas. Who knows? The next Socrates might be among us, offering groundbreaking insights into philosophy.
+Wishing you all the best and continued success.
 
-Additionally, while I understand the importance of adhering to deadlines, I found it disheartening when my first assignment was rejected for being late. It felt as though my effort was not appreciated, which was more discouraging than the grade itself. Growing up under a strict educational system in the Soviet Union, I have come to value freedom in creativity, timing, and thematic exploration. Providing flexibility in deadlines—where feasible—could foster a more supportive environment for students who need time to fully develop their ideas.
-
-### Philosophical Growth and Perspective
-
-This course has taught me that embracing our uniqueness and contributing to new movements or leadership is vital in a world where conformity is often the norm. I have learned that everyone possesses a unique philosophical voice deserving of recognition.
-
-The books and discussions throughout the course have profoundly influenced my perspective, allowing me to view the world more broadly and thoughtfully. As an engineering student, I often perceive things through a technical lens; your course has helped lift that veil, granting me a richer, more nuanced understanding.
-
-### Closing Thoughts
-
-Thank you for your time, understanding, and dedication to teaching. You are an exceptional professor, and your efforts have made a lasting impact on my personal and intellectual growth. Wishing you all the best and continued success in your teaching journey.
-
-Sincerely,  
-Anatolie Jentimir
-
-
-
-_Not protected by copyright, may be used for its intended purpose._  
-_Author: Anatolie Jentimir._
+Sincerely, Anatolie Jentimir
